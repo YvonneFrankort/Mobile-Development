@@ -10,3 +10,7 @@
 
 UI is as follows. User types in age and app will calculate hr limits. If non-numeric value (e.g. only commas or dots) are entered, app will display zero as lower and upper limits.
 
+### Screenshot
+<img width="322" height="415" alt="heart_rate" src="https://github.com/user-attachments/assets/1b645aff-acb4-41ab-979e-3fe97cd8efdf" />
+
+
