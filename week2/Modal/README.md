@@ -4,5 +4,8 @@ Create a new Expo project displaying a screen which contains  Show modal message
 If user presses the text, a modal screen opens with following content. User can close the modal by pressing Close, or on Android by using hardware back button. 
 
 ## Screenshots
-![Modal screenshot](./screenshots/modal.jpg)
-![Modal screenshot 2](./screenshots/modal2.jpg)
+<p float="left">
+  <img src="./screenshots/modal.jpg" width="300" />
+  <img src="./screenshots/modal2.jpg" width="300" />
+</p>
+
