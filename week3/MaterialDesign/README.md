@@ -7,7 +7,5 @@ In this assignment we created a React Native app with two screens. The goal was 
 ### Home Screen
 ![Home Screen](screenshots/HomeScreen.png)
 
-<br><br>
-
 ### Second Screen
 ![Second Screen](screenshots/SecondScreen.png)
