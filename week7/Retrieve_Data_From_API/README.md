@@ -4,5 +4,13 @@ In this assignment we built a mobile app that retrieves data from a free open‑
 Selecting a restaurant opens the DetailScreen, which shows the same information along with an interactive map using react-native-maps. The map is centered on the restaurant’s coordinates and includes a marker.
 
 # Screenshots
+
 ## Home Screen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd55fec9-54a3-48ed-badd-dbe1a292ee06" width="300">
+</p>
+
 ## Detail Screen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eace6081-d221-4094-b1c3-c8569dff5f73" width="300">
+</p>
